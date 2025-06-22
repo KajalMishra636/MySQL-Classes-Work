@@ -3,6 +3,8 @@
 A GitHub repo featuring a set of well-structured MySQL classes, SQL scripts, and hands-on exercises—from foundational CRUD to advanced routines, wrappers, and optimization.
 
 ---
+![image](https://github.com/user-attachments/assets/80376629-bf33-4d81-ad82-40a807c664be)
+
 
 ## 🧭 Table of Contents
 
